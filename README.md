@@ -1,4 +1,4 @@
-# IBMAI
+# IBM AI
 
 A repository to store all the work and projects related to the IBM AI Engineering professional certificate courses:
 
